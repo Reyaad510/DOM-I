@@ -126,3 +126,5 @@ paragraphs[8].textContent = siteContent['footer']['copyright'];
 
 const middleImage = document.getElementById('middle-img');
 middleImage.setAttribute('src', siteContent['main-content']['middle-img-src']);
+
+// MVP Completed
